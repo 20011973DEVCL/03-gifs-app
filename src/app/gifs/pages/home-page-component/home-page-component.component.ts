@@ -4,8 +4,7 @@ import { Gif } from '../../interfaces/gifs.interfaces';
 
 @Component({
   selector: 'gifs-home-page-component',
-  templateUrl: './home-page-component.component.html',
-  styleUrls: ['./home-page-component.component.css']
+  templateUrl: './home-page-component.component.html'
 })
 export class HomePageComponentComponent {
 
